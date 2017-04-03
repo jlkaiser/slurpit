@@ -1,3 +1,5 @@
+This is a fork of rslurp from Thomas Habets. It seems to need some updating and I've been looking for a project to cut my teeth on go. So I'm gonna give this a whirl.
+
 rslurp
 ======
 
